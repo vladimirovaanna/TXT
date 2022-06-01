@@ -1,1 +1,19 @@
-
+Bug-report
+  
+  Summary: The 'Login' field is disabled after clicking
+  
+  Id: 5
+  Status: New
+  Severity: Major
+  Priority: P1
+  Assigned to: developer@example.com
+  Reported by: tester@example.com
+  CC: manager@example.com
+  
+  Steps to reproduce
+  
+  1. Go to page: https://...
+  2. Click on the 'Login' field
+  
+  Actual result: The 'Login' field is disabled.
+  Expected result: The 'Login' field is available for filling.
