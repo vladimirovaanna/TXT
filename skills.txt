@@ -1,0 +1,4 @@
+The skill 1: Git, Git Bash, Git Hub
+The skill 2": HTML/CSS 
+The skill 3": Postman
+The skill 4": Soft skills
