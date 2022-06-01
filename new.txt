@@ -1,0 +1,5 @@
+First name: Anna
+Last name: Vladimirova
+Age: 27
+Count of pets: 0
+The future desired salary: 1500$
